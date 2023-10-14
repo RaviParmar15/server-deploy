@@ -88,12 +88,12 @@
   "Products" :[
     {
       "id":1,
-      "name":"Talk 2",
-      "price": 1299,
-      "description":"hop for Fire-Boltt Talk 2 smartwatch with Bluetooth calling so you directly talk through your watch.  Smart features- voice assistant, 60 sports modes, SpO2 Monitoring to check the oxygen level in your blood, a metal case to make it robust, and IP68 water-resistant.",
-      "images":"https://www.fireboltt.com/cdn/shop/products/talk2-black_1_400x.png?v=1653643544",
-      "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/3-display_02affdba-8d0f-4133-bda8-e683bfba09fd.gif?v=1668163955",
-      "description2":"The circular design and rounded screen of Fire-Boltt Talk 2 offers a royal look and classic feel while the stunning 32mm (1.28-inch) HD display with 240*240 pixels resolution pushes smart watch design into a bright future, right before your eyes",
+      "name":"Starlight",
+      "price": 1999,
+      "description":"Level up your style game with Starlight, equipped with a 51mm (2.01) HD display, Bluetooth calling, stainless steel design IP68, water resistance and more.",
+      "images":"https://www.fireboltt.com/cdn/shop/files/starlight-silver_1_360x.png?v=1692356784",
+      "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/starlight-desktop_1.jpg?v=1692356866",
+      "description2":"",
       "rating":4.7
 
 
@@ -113,26 +113,26 @@
     },
     {
       "id":3,
-      "name":"Dazzle Plus",
-      "price": 1399,
-      "description":"Fire-Boltt Dazzle Plus Smartwatch with a large 46mm (1.81 Inch) Full Touch Display, 60 Sports Modes, IP68 Rating, SpO2 Tracking, Over 100 Cloud Based Watch Faces and more.",
-      "images":"https://www.fireboltt.com/cdn/shop/products/dazzle-plus-black_1_400x.png?v=1676010264",
-      "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/dazzle-plus_8.png?v=1669730656",
-      "description2":"No need to worry about running out of battery anymore! Fire-Boltt Dazzle Plus can sustain for 5-8 days in Normal Mode and around 30 days in stand-by mode.",
-      "rating":4.7
+      "name":"Asteroid",
+      "price": 1999,
+      "description":"Elevate your lifestyle with the Asteroid Smartwatch - a fusion of style and tech, featuring a stunning 36.3mm (1.43) AMOLED display, Bluetooth calling and low power consumption.",
+      "images":"https://www.fireboltt.com/cdn/shop/files/asteroid-yellow_1_360x.png?v=1692944187",
+      "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/asteroid-desktop_4.jpg?v=1692590812",
+      "description2":"",
+      "rating":4.8
 
 
 
     },
     {
       "id":4,
-      "name":"TALK",
-      "price": 1399,
-      "description":"Fire-Boltt TALK- India’s first Bluetooth calling smartwatch featuring SpO2 Monitor, HR Monitoring, and Sedentary Alerts",
-      "images":"https://www.fireboltt.com/cdn/shop/products/9_784ecf3b-624c-407b-92de-aed237ba6125_360x.png?v=1638004570",
-      "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/fireboltt-bsw004-34.mp4?v=1624706115",
-      "description2":"Be in a sound body and mind with a watch that cares for both. Follow the suggested meditative breathing exercises to get some peace of mind. It is important to keep your stress levels in check to avoid both physical and mental burnout. When you find yourself bogged down by the hustle, take a quick time out by triggering the meditative Breathing Mode. Indulge in some guided deep breathing exercises to unwind and regenerate.",
-      "rating":4.7
+      "name":"Rock",
+      "price": 2799,
+      "description":"Upgrade your lifestyle and take control of your day with the AMOLED Display Smartwatch. Our smartwatch lets you easily track your fitness goals, and even control your music without ever having to pull out your phone.",
+      "images":"https://www.fireboltt.com/cdn/shop/products/rock-grey_2_360x.png?v=1680697955",
+      "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/rock-2.jpg?v=1680849681",
+      "description2":"",
+      "rating":4.6
 
 
 

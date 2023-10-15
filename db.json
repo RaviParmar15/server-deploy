@@ -94,6 +94,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/starlight-silver_1_360x.png?v=1692356784",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/starlight-desktop_1.jpg?v=1692356866",
       "description2":"",
+      "color":"Silver",
       "rating":4.7
 
 
@@ -107,6 +108,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/ninja-3-plus-2_400x.png?v=1682363784",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/ninja-3-plus_02_4e6a0991-6181-4453-aa4b-d8c39664bfc3.jpg?v=1682397871",
       "description2":"",
+      "color":"Black",
       "rating":4.7
 
 
@@ -119,6 +121,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/asteroid-yellow_1_360x.png?v=1692944187",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/asteroid-desktop_4.jpg?v=1692590812",
       "description2":"",
+      "color":"Yellow",
       "rating":4.8
 
 
@@ -132,6 +135,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/rock-grey_2_360x.png?v=1680697955",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/rock-2.jpg?v=1680849681",
       "description2":"",
+      "color":"Grey",
       "rating":4.6
 
 
@@ -145,6 +149,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/BM2_360x.png?v=1685345649",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/Legacy_desktop07_f6d6e584-d331-43a1-9f51-9e8033cf9217.jpg?v=1691647482",
       "description2":"",
+      "color":"Black SS",
       "rating":4.7
 
 
@@ -157,7 +162,8 @@
       "description":"Fire-Boltt is introducing the ultimate luxury smartwatch - INVINCIBLE PLUS - a true masterpiece of technology and design featuring an AMOLED Display, Bluetooth calling, 4 GB storage, and much more!",
       "images":"https://www.fireboltt.com/cdn/shop/products/Untitled-1Artboard-8_360x.png?v=1678186270",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/web1_copy.jpg?v=1694025837",
-      "description2":"",    
+      "description2":"",  
+      "color":"Silver Steel",  
       "rating":4.7
 
 
@@ -171,6 +177,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/quantum-green_1_360x.png?v=1685365655",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/Quantum-desktop_2_9965e760-686e-450d-8706-406862959a09.jpg?v=1685364094",
       "description2":"",
+      "color":"Green",
       "rating":4.7
 
 
@@ -184,6 +191,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/epic-plus-black_1_400x.png?v=1671192278",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/epic-plus-4-health.png?v=1671195664",
       "description2":"Track your own Oxygen levels. Be aware of the changing levels of oxygen in your blood and take the right steps in advance to keep it balanced.",
+      "color":"Black",
       "rating":4.8
 
 
@@ -197,6 +205,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/ninja-fit-black_1_360x.png?v=1683185247",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/ninja-fit-1.gif?v=1675073094",
       "description2":"View bigger on the screen with our largest 42.9mm (1.69”) HD display covering every edge possible with a design that gives you the best screen experience ever on a smartwatch.",
+      "color":"Black",
       "rating":4.8
 
 
@@ -210,6 +219,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/cobra-green_1_3471714a-d7ef-452e-9569-5a1c1841a972_360x.png?v=1674640",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/cobra-desktop-01_23e99cf4-3f3a-435d-b064-58f9d19bab67.png?v=1694005269",
       "description2":"",
+      "color":"Green",
       "rating":4.8
 
 
@@ -223,6 +233,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/supernova-black_1_400x.png?v=1673500420",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/supernova-6.jpg?v=1673513672",
       "description2":"Running, cycling, swimming, and more – choose your favourite type of workout from 123 DIFFERENT SPORTS MODES. Supernova will keep a track of every step, every lap, and every stat to help you crush those fitness goals",
+      "color":"Black",
       "rating":4.7
 
 
@@ -236,6 +247,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/ninja-call-pro-plus-black_1_400x.png?v=1669011715",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/ninja-call-pro-plus_4.png?v=1669013468",
       "description2":"Running, cycling, swimming, and more – choose your favourite workout from 100+ different sports modes. The Ninja Call Pro is here to keep a track of every step, every lap, and every stat to help you crush those fitness goals.",
+      "color":"Black",
       "rating":4.5
 
 
@@ -249,6 +261,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/ultimate-black_1_400x.png?v=1683028277",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/ultimate-desktop-launch-page_1.jpg?v=1683025655",
       "description2":"",
+      "color":"Black SS",
       "rating":4.7
 
 
@@ -262,6 +275,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/BackRef.48_360x.png?v=1692796390",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/vogue-desktop-_3.jpg?v=1693985477",
       "description2":"",
+      "color":"Black",
       "rating":4.8
 
 
@@ -275,6 +289,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/hunter-dark-blue_1_360x.png?v=1683616948",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/hunter-desktop-2.jpg?v=1694025334",
       "description2":"",
+      "color":" Dark Blue",
       "rating":4.8
 
 
@@ -288,6 +303,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/1_400x.png?v=1638005392",
       "descimages":"https://www.youtube.com/watch?v=hmKEBWmCEB",
       "description2":"",
+      "color":"Black",
       "rating":4.7
 
 
@@ -301,6 +317,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/gold-3_360x.png?v=1686119884",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/blizzard-desktop-1.jpg?v=1693939432",
       "description2":"",
+      "color":"ICONIC GOLD",
       "rating":4.8
 
 
@@ -314,6 +331,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/products/rocket-grey_1_360x.png?v=1671794798",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/rocket-5-desktop_9dac5640-a827-488f-aafd-f8f5d2c5f525.jpg?v=1672116883",
       "description2":"",
+      "color":" Silver Grey",
       "rating":4.8
 
 
@@ -327,6 +345,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/7_1_360x.png?v=1692182921",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/Artboard_1_29_1e37b0e1-5695-4f5b-b252-8d061de277fd.jpg?v=1671182245",
       "description2":"",  
+      "color":"Camo Black",
        "rating":4.7
 
 
@@ -340,6 +359,7 @@
       "images":"https://www.fireboltt.com/cdn/shop/files/combat-camo-black_1_360x.png?v=1686202135",
       "descimages":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/combat-desktop_5_df2bac90-2e17-4479-a289-a13a96ccb8c7.jpg?v=1686204325",
       "description2":"",
+      "color":"Camo Black",
       "rating":4.8
 
 
